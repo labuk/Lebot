@@ -2085,5 +2085,6 @@
     "platform-dev": [],
     "platform-overrides": {
         "php": "5.3.10"
-    }
+    },
+    "mcrypt": "*"
 }
